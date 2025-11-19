@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/2625-increment-submatrices-by-one) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## String
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Sorting
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
