@@ -3,7 +3,7 @@ class Solution {
   int countPalindromicSubsequence(string s) {
     int ans = 0;
     vector<int> first(26, s.length());
-    vector<int> last(26);
+    vector<int> last(26, -1);
 
     for (int i = 0; i < s.length(); ++i) {
       const int index = s[i] - 'a';
