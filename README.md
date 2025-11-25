@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2025/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
